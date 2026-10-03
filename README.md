@@ -42,14 +42,14 @@ floating quota orb that appears while Codex is running.
 ### macOS · Apple silicon
 
 <p align="center">
-  <a href="https://github.com/ObsidianRelay/codex-quota-menubar-skill/releases/download/v2.7.0/CodexQuotaMenuBar-macOS-arm64.zip">
+  <a href="https://github.com/ObsidianRelay/codex-quota-menubar/releases/download/v2.7.1/CodexQuotaMenuBar-macOS-arm64.zip">
     <img src="https://img.shields.io/badge/Download-macOS%20Apple%20silicon-0A84FF?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="Download Codex Quota Menu Bar for macOS">
   </a>
 </p>
 
 <p align="center">
   macOS 13 or later · Apple silicon (M1 or newer) ·
-  <a href="https://github.com/ObsidianRelay/codex-quota-menubar-skill/releases/tag/v2.7.0">Release notes and SHA-256</a>
+  <a href="https://github.com/ObsidianRelay/codex-quota-menubar/releases/tag/v2.7.1">Release notes and SHA-256</a>
 </p>
 
 ### Windows · x64
