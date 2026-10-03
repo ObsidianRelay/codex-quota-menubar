@@ -247,6 +247,7 @@ static NSString *CQMenuBarTitleForSnapshot(CQQuotaSnapshot *snapshot, BOOL refre
     if (overridePath.length > 0) [paths addObject:overridePath];
     NSString *home = NSHomeDirectory();
     [paths addObjectsFromArray:@[
+        [home stringByAppendingPathComponent:@".codex/plugins/.plugin-appserver/codex-cli/bin/codex"],
         [home stringByAppendingPathComponent:@".codex/plugins/.plugin-appserver/codex"],
         @"/opt/homebrew/bin/codex", @"/usr/local/bin/codex",
         [home stringByAppendingPathComponent:@".local/bin/codex"]
